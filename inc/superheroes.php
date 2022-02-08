@@ -23,4 +23,4 @@ $superheroes = array();
 // Poteri: Forza e resistenza sovraumane, invulnerabilità, volo, vista a raggi X, super udito
 // Immagine: img/superman.png
 
-// Crea i tre supereroi e aggiungili all'array $superheroes
+// Crea qui sotto i tre supereroi e aggiungili all'array $superheroes
